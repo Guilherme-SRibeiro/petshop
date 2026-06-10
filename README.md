@@ -65,6 +65,5 @@ Projeto desenvolvido para o **Desafio de Engenharia de Prompt & Teste Comparativ
 
 ---
 
-## 👨‍💻 Autores
-
-Desenvolvido pelo grupo — Turma de Desenvolvimento Web
+## 👨‍💻 Autor
+Guilherme Riberio
